@@ -28,8 +28,6 @@ Se você deseja contribuir para este projeto, fique à vontade para abrir uma is
 
 Contato
 Email: andersonpalezidev@gmail.com
-LinkedIn: Seu LinkedIn
-Instagram: Seu Instagram
-Facebook: Seu Facebook
+
 Licença
 Este projeto está licenciado sob a Licença MIT.
